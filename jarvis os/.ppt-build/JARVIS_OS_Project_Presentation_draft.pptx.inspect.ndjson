@@ -1,0 +1,458 @@
+{"kind":"deck","id":"pr/99fn8p","name":"Deck"}
+{"kind":"layout","layoutId":"cbbea499-e275-4569-b0c3-0ce7fefdb265","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c1413721-82df-4905-a856-3872c5596967","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/ehq02r","slide":1,"title":"BE COMPUTER ENGINEERING  |  PROJECT PRESENTATION","textShapes":12}
+{"kind":"shape","id":"sh/y587uh47","slide":1,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/lszq5wny","slide":1,"text":"BE COMPUTER ENGINEERING  |  PROJECT PRESENTATION","textPreview":"BE COMPUTER ENGINEERING  |  PROJECT PRESENTATION","textChars":48,"textLines":1,"bbox":[68,56,680,22]}
+{"kind":"textbox","id":"sh/krqpwrmd","slide":1,"text":"JARVIS OS","textPreview":"JARVIS OS","textChars":9,"textLines":1,"bbox":[68,124,620,72]}
+{"kind":"textbox","id":"sh/7uh8765o","slide":1,"text":"Intelligent Voice-Controlled\nDesktop Assistant","textPreview":"Intelligent Voice-Controlled | Desktop Assistant","textChars":46,"textLines":2,"bbox":[70,210,610,88]}
+{"kind":"textbox","id":"sh/mt87y143","slide":1,"text":"An AI-powered desktop automation system that turns natural-language commands into computer actions.","textPreview":"An AI-powered desktop automation system that turns natural-language commands into computer actions.","textChars":99,"textLines":1,"bbox":[70,326,560,58]}
+{"kind":"shape","id":"sh/twjq9wnu","slide":1,"bbox":[70,470,555,135]}
+{"kind":"textbox","id":"sh/8vap0bm9","slide":1,"text":"Student: [Name]    |    Guide: [Name]","textPreview":"Student: [Name]    |    Guide: [Name]","textChars":37,"textLines":1,"bbox":[92,492,500,27]}
+{"kind":"textbox","id":"sh/vy18b6l0","slide":1,"text":"Department / College: [Name]","textPreview":"Department / College: [Name]","textChars":28,"textLines":1,"bbox":[92,530,500,25]}
+{"kind":"textbox","id":"sh/uxs7214f","slide":1,"text":"Academic Year: [Year]","textPreview":"Academic Year: [Year]","textChars":21,"textLines":1,"bbox":[92,565,500,24]}
+{"kind":"textbox","id":"sh/4za9s3ip","slide":1,"text":"USER","textPreview":"USER","textChars":4,"textLines":1,"bbox":[880,132,205,54]}
+{"kind":"textbox","id":"sh/p0jq18za","slide":1,"text":"VOICE","textPreview":"VOICE","textChars":5,"textLines":1,"bbox":[880,257,205,54]}
+{"kind":"textbox","id":"sh/2xsrqd0z","slide":1,"text":"AI / LLM","textPreview":"AI / LLM","textChars":8,"textLines":1,"bbox":[880,382,205,54]}
+{"kind":"textbox","id":"sh/3y18zyhk","slide":1,"text":"DESKTOP","textPreview":"DESKTOP","textChars":7,"textLines":1,"bbox":[880,507,205,54]}
+{"kind":"shape","id":"sh/c3u9wni1","slide":1,"bbox":[982.5,186,0,71]}
+{"kind":"shape","id":"sh/d43q5szm","slide":1,"bbox":[982.5,311,0,71]}
+{"kind":"shape","id":"sh/q1srud0v","slide":1,"bbox":[982.5,436,0,71]}
+{"kind":"textbox","id":"sh/r2l83ihg","slide":1,"text":"Speech · Reasoning · Automation","textPreview":"Speech · Reasoning · Automation","textChars":31,"textLines":1,"bbox":[815,590,330,28]}
+{"kind":"notes","id":"nt/ehq02r","slide":1,"text":"Title slide. Replace student, guide, department, college and academic year placeholders before presenting."}
+{"kind":"slide","id":"sl/u13xux","slide":2,"title":"PROJECT OVERVIEW","textShapes":15}
+{"kind":"shape","id":"sh/294jmt8f","slide":2,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/pwf2xor6","slide":2,"text":"PROJECT OVERVIEW","textPreview":"PROJECT OVERVIEW","textChars":16,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/4vm1ojql","slide":2,"text":"1. Introduction","textPreview":"1. Introduction","textChars":15,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/f6dkre94","slide":2,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/u54ji98j","slide":2,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/h8v2tora","slide":2,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/g7m1kjqp","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/z2xk3y98","slide":2,"text":"JARVIS OS converts natural-language voice commands into practical computer actions.","textPreview":"JARVIS OS converts natural-language voice commands into practical computer actions.","textChars":83,"textLines":1,"bbox":[58,142,580,55]}
+{"kind":"textbox","id":"sh/e1ojud8n","slide":2,"text":"Traditional computer use depends on keyboard, mouse and graphical menus.\nManual desktop operations can repeat the same steps across several applications.\nVoice interaction offers a natural way to request a task.\nJARVIS OS combines speech recognition, command analysis and desktop automation.\nStructured skills can act directly; AI/LLM processing supports configured intelligent interaction.","textPreview":"Traditional computer use depends on keyboard, mouse and graphical menus. | Manual desktop operations can repeat the same steps across sev...","textChars":390,"textLines":5,"bbox":[58,220,560,345]}
+{"kind":"textbox","id":"sh/svm54ryt","slide":2,"text":"Command workflow","textPreview":"Command workflow","textChars":16,"textLines":1,"bbox":[757,144,370,28]}
+{"kind":"textbox","id":"sh/dwfmdwze","slide":2,"text":"User","textPreview":"User","textChars":4,"textLines":1,"bbox":[755,184,370,42]}
+{"kind":"textbox","id":"sh/qt4n2hgn","slide":2,"text":"Voice Command","textPreview":"Voice Command","textChars":13,"textLines":1,"bbox":[755,234,370,42]}
+{"kind":"shape","id":"sh/rud4bmh8","slide":2,"bbox":[940,226,0,8]}
+{"kind":"textbox","id":"sh/4rm507yh","slide":2,"text":"Speech Recognition","textPreview":"Speech Recognition","textChars":18,"textLines":1,"bbox":[755,284,370,42]}
+{"kind":"shape","id":"sh/5svm9cz2","slide":2,"bbox":[940,276,0,8]}
+{"kind":"textbox","id":"sh/ip4nyhgr","slide":2,"text":"AI / LLM","textPreview":"AI / LLM","textChars":8,"textLines":1,"bbox":[755,334,370,42]}
+{"kind":"shape","id":"sh/3qd47mhw","slide":2,"bbox":[940,326,0,8]}
+{"kind":"textbox","id":"sh/gn25w7yl","slide":2,"text":"Intent & Task Analysis","textPreview":"Intent & Task Analysis","textChars":22,"textLines":1,"bbox":[755,384,370,42]}
+{"kind":"shape","id":"sh/hobm5cz6","slide":2,"bbox":[940,376,0,8]}
+{"kind":"textbox","id":"sh/x83ud4ni","slide":2,"text":"Desktop Automation","textPreview":"Desktop Automation","textChars":18,"textLines":1,"bbox":[755,434,370,42]}
+{"kind":"shape","id":"sh/c7atkz6x","slide":2,"bbox":[940,426,0,8]}
+{"kind":"textbox","id":"sh/b61cbu5s","slide":2,"text":"Application / OS","textPreview":"Application / OS","textChars":16,"textLines":1,"bbox":[755,484,370,42]}
+{"kind":"shape","id":"sh/a5sbipo7","slide":2,"bbox":[940,476,0,8]}
+{"kind":"textbox","id":"sh/p4ju9knm","slide":2,"text":"Response","textPreview":"Response","textChars":8,"textLines":1,"bbox":[755,534,370,42]}
+{"kind":"shape","id":"sh/ojatgz61","slide":2,"bbox":[0,0,0,0]}
+{"kind":"notes","id":"nt/u13xux","slide":2,"text":"Explain that commands can arrive as typed text or voice. High-confidence task skills handle direct commands; optional LLM providers support configured AI interactions."}
+{"kind":"slide","id":"sl/ue6s4p","slide":3,"title":"EXISTING ASSISTANTS","textShapes":7}
+{"kind":"shape","id":"sh/1gbm50jq","slide":3,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/edk3ulkz","slide":3,"text":"EXISTING ASSISTANTS","textPreview":"EXISTING ASSISTANTS","textChars":19,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/fet43q1k","slide":3,"text":"2. Literature Review","textPreview":"2. Literature Review","textChars":20,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/ojml0f21","slide":3,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/pkvm9kjm","slide":3,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/2hk3y5kb","slide":3,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/3id47a1w","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/4nilob2x","slide":3,"text":"Existing assistants demonstrate voice interaction and AI assistance. JARVIS OS focuses on the desktop automation context.","textPreview":"Existing assistants demonstrate voice interaction and AI assistance. JARVIS OS focuses on the desktop automation context.","textChars":121,"textLines":1,"bbox":[58,142,1120,34]}
+{"kind":"textbox","id":"sh/tw3yhsvm","slide":3,"text":"Opportunity: Voice interaction + AI reasoning + computer automation in one desktop-focused system","textPreview":"Opportunity: Voice interaction + AI reasoning + computer automation in one desktop-focused system","textChars":97,"textLines":1,"bbox":[145,555,990,56]}
+{"kind":"textbox","id":"sh/svuhoneh","slide":3,"text":"Comparison reflects the project scope. Capabilities vary by product, platform and version.","textPreview":"Comparison reflects the project scope. Capabilities vary by product, platform and version.","textChars":90,"textLines":1,"bbox":[172,624,940,21]}
+{"kind":"table","id":"tb/ov65czuh","slide":3,"name":"","rows":6,"cols":3,"preview":"System | Main Capability | Limitation in this project context","bbox":[58,202,1164,312]}
+{"kind":"notes","id":"nt/ue6s4p","slide":3,"text":"Literature-review comparison for presentation context. Avoid claiming that any named product has no desktop automation; feature availability changes by platform and version."}
+{"kind":"slide","id":"sl/x8c1ua","slide":4,"title":"NEED FOR THE SYSTEM","textShapes":14}
+{"kind":"shape","id":"sh/kvah8vmp","slide":4,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/jah0fq5k","slide":4,"text":"NEED FOR THE SYSTEM","textPreview":"NEED FOR THE SYSTEM","textChars":19,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/i98z6l4z","slide":4,"text":"3. Problem Statement","textPreview":"3. Problem Statement","textChars":20,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/x8zidgne","slide":4,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/w7qh4bmt","slide":4,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/v6h0b658","slide":4,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/a58z214n","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/h43ipk3i","slide":4,"text":"Problem statement","textPreview":"Problem statement","textChars":17,"textLines":1,"bbox":[72,151,300,24]}
+{"kind":"textbox","id":"sh/g3u1gfmx","slide":4,"text":"“To design and develop an intelligent voice-controlled desktop assistant, JARVIS OS, capable of understanding natural-language voice commands and performing computer operations, application control, web tasks, communication tasks, and AI-based question answering through an integrated desktop automation system.”","textPreview":"“To design and develop an intelligent voice-controlled desktop assistant, JARVIS OS, capable of understanding natural-language voice comm...","textChars":312,"textLines":1,"bbox":[70,189,670,206]}
+{"kind":"textbox","id":"sh/y5ovahgz","slide":4,"text":"Major user challenges","textPreview":"Major user challenges","textChars":21,"textLines":1,"bbox":[812,151,330,24]}
+{"kind":"textbox","id":"sh/z6xw3mhk","slide":4,"text":"Manual navigation","textPreview":"Manual navigation","textChars":17,"textLines":1,"bbox":[795,194,185,68]}
+{"kind":"textbox","id":"sh/k76xc7y5","slide":4,"text":"Repetitive operations","textPreview":"Repetitive operations","textChars":21,"textLines":1,"bbox":[1000,194,185,68]}
+{"kind":"textbox","id":"sh/l8fe5czq","slide":4,"text":"Application switching","textPreview":"Application switching","textChars":21,"textLines":1,"bbox":[795,295,185,68]}
+{"kind":"textbox","id":"sh/a14v6xg3","slide":4,"text":"Limited desktop control","textPreview":"Limited desktop control","textChars":23,"textLines":1,"bbox":[1000,295,185,68]}
+{"kind":"textbox","id":"sh/b2dwz2ho","slide":4,"text":"Rule-based language limits","textPreview":"Rule-based language limits","textChars":26,"textLines":1,"bbox":[795,396,185,68]}
+{"kind":"textbox","id":"sh/c3md87yt","slide":4,"text":"Cloud-service dependency","textPreview":"Cloud-service dependency","textChars":24,"textLines":1,"bbox":[1000,396,185,68]}
+{"kind":"textbox","id":"sh/x4fe1cze","slide":4,"text":"Design goal: reduce manual effort while keeping computer actions understandable and controlled.","textPreview":"Design goal: reduce manual effort while keeping computer actions understandable and controlled.","textChars":95,"textLines":1,"bbox":[70,468,1075,76]}
+{"kind":"notes","id":"nt/x8c1ua","slide":4,"text":"Read the problem statement as written, then briefly connect it to the six user challenges."}
+{"kind":"slide","id":"sl/a35yyq","slide":5,"title":"FROM ASSISTANCE TO ACTION","textShapes":18}
+{"kind":"shape","id":"sh/m90bq983","slide":5,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/9cra1o7u","slide":5,"text":"FROM ASSISTANCE TO ACTION","textPreview":"FROM ASSISTANCE TO ACTION","textChars":25,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/obitsjq9","slide":5,"text":"4. Research Gap","textPreview":"4. Research Gap","textChars":15,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/betc3epk","slide":5,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/adkbut8f","slide":5,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/xgbu5o7q","slide":5,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/wf2twjq5","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/j2tc7ypw","slide":5,"text":"Existing assistants commonly support voice recognition, question answering, web search and basic commands.","textPreview":"Existing assistants commonly support voice recognition, question answering, web search and basic commands.","textChars":106,"textLines":1,"bbox":[58,145,1120,34]}
+{"kind":"textbox","id":"sh/yhkbyt8b","slide":5,"text":"Existing Voice Assistant","textPreview":"Existing Voice Assistant","textChars":24,"textLines":1,"bbox":[160,226,350,55]}
+{"kind":"textbox","id":"sh/c725w3ul","slide":5,"text":"Voice Recognition","textPreview":"Voice Recognition","textChars":17,"textLines":1,"bbox":[160,296,350,55]}
+{"kind":"shape","id":"sh/d8v6p8v6","slide":5,"bbox":[335,281,0,15]}
+{"kind":"textbox","id":"sh/q5knutcf","slide":5,"text":"Question Answering","textPreview":"Question Answering","textChars":18,"textLines":1,"bbox":[160,366,350,55]}
+{"kind":"shape","id":"sh/r6tonyd0","slide":5,"bbox":[335,351,0,15]}
+{"kind":"textbox","id":"sh/0bm50nuh","slide":5,"text":"Basic Commands","textPreview":"Basic Commands","textChars":14,"textLines":1,"bbox":[160,436,350,55]}
+{"kind":"shape","id":"sh/1cv6t8v2","slide":5,"bbox":[335,421,0,15]}
+{"kind":"textbox","id":"sh/e94nydcb","slide":5,"text":"JARVIS OS","textPreview":"JARVIS OS","textChars":9,"textLines":1,"bbox":[770,192,350,45]}
+{"kind":"textbox","id":"sh/zadoridw","slide":5,"text":"Voice Recognition","textPreview":"Voice Recognition","textChars":17,"textLines":1,"bbox":[770,246,350,45]}
+{"kind":"shape","id":"sh/ozmp4nut","slide":5,"bbox":[945,237,0,9]}
+{"kind":"textbox","id":"sh/90f6xsvy","slide":5,"text":"Natural-Language Understanding","textPreview":"Natural-Language Understanding","textChars":30,"textLines":1,"bbox":[770,300,350,45]}
+{"kind":"shape","id":"sh/hwb6hsni","slide":5,"bbox":[945,291,0,9]}
+{"kind":"textbox","id":"sh/wv25onmx","slide":5,"text":"LLM Reasoning","textPreview":"LLM Reasoning","textChars":13,"textLines":1,"bbox":[770,354,350,45]}
+{"kind":"shape","id":"sh/vu9ofi5c","slide":5,"bbox":[945,345,0,9]}
+{"kind":"textbox","id":"sh/at0nmd4r","slide":5,"text":"Task Planning","textPreview":"Task Planning","textChars":13,"textLines":1,"bbox":[770,408,350,45]}
+{"kind":"shape","id":"sh/5kb6lsne","slide":5,"bbox":[945,399,0,9]}
+{"kind":"textbox","id":"sh/4j25snmt","slide":5,"text":"Desktop Automation","textPreview":"Desktop Automation","textChars":18,"textLines":1,"bbox":[770,462,350,45]}
+{"kind":"shape","id":"sh/jitoj258","slide":5,"bbox":[945,453,0,9]}
+{"kind":"textbox","id":"sh/ixknqx4n","slide":5,"text":"Real Computer Action","textPreview":"Real Computer Action","textChars":20,"textLines":1,"bbox":[770,516,350,45]}
+{"kind":"shape","id":"sh/lorm98na","slide":5,"bbox":[945,507,0,9]}
+{"kind":"textbox","id":"sh/0ni5g3mp","slide":5,"text":"VERSUS","textPreview":"VERSUS","textChars":6,"textLines":1,"bbox":[576,373,130,40]}
+{"kind":"textbox","id":"sh/qtw3q9kn","slide":5,"text":"Research/development gap: a desktop assistant that combines natural-language AI reasoning with actual computer automation while supporting flexible local and cloud AI processing.","textPreview":"Research/development gap: a desktop assistant that combines natural-language AI reasoning with actual computer automation while supportin...","textChars":178,"textLines":1,"bbox":[160,577,960,60]}
+{"kind":"notes","id":"nt/a35yyq","slide":5,"text":"State the gap as a project-development need, rather than as an absolute claim about all other assistants."}
+{"kind":"slide","id":"sl/k8ihu5","slide":6,"title":"PROJECT GOALS","textShapes":10}
+{"kind":"shape","id":"sh/atgfeh4v","slide":6,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/xw7e9cnm","slide":6,"text":"PROJECT GOALS","textPreview":"PROJECT GOALS","textChars":13,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/wvyxgrm1","slide":6,"text":"5. Aim and Objectives","textPreview":"5. Aim and Objectives","textChars":21,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/jy9wbm5s","slide":6,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/ix0fih47","slide":6,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/50redwni","slide":6,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/kzixkrmx","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/7m9wf65o","slide":6,"text":"Aim: To develop an intelligent voice-controlled desktop assistant that uses Artificial Intelligence and desktop automation to understand natural-language commands and perform computer tasks efficiently.","textPreview":"Aim: To develop an intelligent voice-controlled desktop assistant that uses Artificial Intelligence and desktop automation to understand ...","textChars":202,"textLines":1,"bbox":[58,143,1164,83]}
+{"kind":"textbox","id":"sh/6l0fm143","slide":6,"text":"Interaction and understanding","textPreview":"Interaction and understanding","textChars":29,"textLines":1,"bbox":[75,258,470,27]}
+{"kind":"textbox","id":"sh/83mdor2p","slide":6,"text":"Automation and integration","textPreview":"Automation and integration","textChars":26,"textLines":1,"bbox":[685,258,470,27]}
+{"kind":"textbox","id":"sh/t4vexwja","slide":6,"text":"Develop a voice-based user interface\nConvert speech into text\nUnderstand natural-language commands\nUse an LLM for intelligent reasoning\nProvide text and voice responses\nImprove user productivity through automation","textPreview":"Develop a voice-based user interface | Convert speech into text | Understand natural-language commands | Use an LLM for intelligent reaso...","textChars":213,"textLines":6,"bbox":[70,299,500,285]}
+{"kind":"textbox","id":"sh/614vm1kj","slide":6,"text":"Execute commands automatically\nOpen and control desktop applications\nPerform web searches and browser operations\nAutomate communication-related tasks\nIntegrate local and cloud AI models\nSupport configurable AI fallback","textPreview":"Execute commands automatically | Open and control desktop applications | Perform web searches and browser operations | Automate communica...","textChars":218,"textLines":6,"bbox":[680,299,500,285]}
+{"kind":"textbox","id":"sh/72dwv614","slide":6,"text":"PLANNED / IMPLEMENTED","textPreview":"PLANNED / IMPLEMENTED","textChars":21,"textLines":1,"bbox":[516,620,170,27]}
+{"kind":"notes","id":"nt/k8ihu5","slide":6,"text":"Use the objective slide to distinguish core project goals from optional services that depend on configuration, installed applications or internet access."}
+{"kind":"slide","id":"sl/8f83kk","slide":7,"title":"SYSTEM ARCHITECTURE","textShapes":19}
+{"kind":"shape","id":"sh/9kz2187u","slide":7,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/mh8jqt83","slide":7,"text":"SYSTEM ARCHITECTURE","textPreview":"SYSTEM ARCHITECTURE","textChars":19,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/nihkzypo","slide":7,"text":"6. Methodology","textPreview":"6. Methodology","textChars":14,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/wnqlwnq5","slide":7,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/xoz2587q","slide":7,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/al83ud8z","slide":7,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/bmhk3ipk","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/cr61kjq1","slide":7,"text":"Architecture flow","textPreview":"Architecture flow","textChars":17,"textLines":1,"bbox":[58,142,510,24]}
+{"kind":"textbox","id":"sh/dsf2to7m","slide":7,"text":"USER","textPreview":"USER","textChars":4,"textLines":1,"bbox":[255,173,180,38]}
+{"kind":"textbox","id":"sh/xcna50fy","slide":7,"text":"Voice Command","textPreview":"Voice Command","textChars":13,"textLines":1,"bbox":[230,230,230,42]}
+{"kind":"textbox","id":"sh/wru9cvyd","slide":7,"text":"Speech Recognition","textPreview":"Speech Recognition","textChars":18,"textLines":1,"bbox":[230,293,230,42]}
+{"kind":"textbox","id":"sh/vql83qx8","slide":7,"text":"Command / Intent Analyzer","textPreview":"Command / Intent Analyzer","textChars":25,"textLines":1,"bbox":[196,356,298,42]}
+{"kind":"textbox","id":"sh/apcralgn","slide":7,"text":"AI Controller","textPreview":"AI Controller","textChars":13,"textLines":1,"bbox":[235,419,220,42]}
+{"kind":"textbox","id":"sh/5gna9kfa","slide":7,"text":"Ollama\nLocal AI","textPreview":"Ollama | Local AI","textChars":15,"textLines":2,"bbox":[98,492,180,54]}
+{"kind":"textbox","id":"sh/4fe9gfyp","slide":7,"text":"NVIDIA NIM\nCloud AI","textPreview":"NVIDIA NIM | Cloud AI","textChars":19,"textLines":2,"bbox":[412,492,180,54]}
+{"kind":"textbox","id":"sh/je5s7ax4","slide":7,"text":"Task Planner","textPreview":"Task Planner","textChars":12,"textLines":1,"bbox":[235,571,220,42]}
+{"kind":"shape","id":"sh/idwre5gj","slide":7,"bbox":[345,211,0,19]}
+{"kind":"shape","id":"sh/tk7adkf6","slide":7,"bbox":[345,272,0,21]}
+{"kind":"shape","id":"sh/sje9kfyl","slide":7,"bbox":[345,335,0,21]}
+{"kind":"shape","id":"sh/cnmtgjmx","slide":7,"bbox":[345,398,0,21]}
+{"kind":"shape","id":"sh/dofu9oni","slide":7,"bbox":[188,461,157,31]}
+{"kind":"shape","id":"sh/ql4bet4r","slide":7,"bbox":[345,461,157,31]}
+{"kind":"shape","id":"sh/rmdc7y5c","slide":7,"bbox":[188,546,47,46]}
+{"kind":"shape","id":"sh/0r6tk3mt","slide":7,"bbox":[455,546,47,46]}
+{"kind":"textbox","id":"sh/1sfud8ne","slide":7,"text":"Action / Automation","textPreview":"Action / Automation","textChars":19,"textLines":1,"bbox":[760,209,290,44]}
+{"kind":"textbox","id":"sh/epobit43","slide":7,"text":"Windows\nControl","textPreview":"Windows | Control","textChars":15,"textLines":2,"bbox":[670,337,150,56]}
+{"kind":"textbox","id":"sh/zqxcby5o","slide":7,"text":"Browser\nControl","textPreview":"Browser | Control","textChars":15,"textLines":2,"bbox":[840,337,150,56]}
+{"kind":"textbox","id":"sh/gv2t8z6p","slide":7,"text":"Apps\nControl","textPreview":"Apps | Control","textChars":12,"textLines":2,"bbox":[1010,337,150,56]}
+{"kind":"textbox","id":"sh/hwva14na","slide":7,"text":"Text / Voice Response","textPreview":"Text / Voice Response","textChars":21,"textLines":1,"bbox":[820,483,210,45]}
+{"kind":"shape","id":"sh/jmlo36t4","slide":7,"bbox":[455,231,305,361]}
+{"kind":"shape","id":"sh/ilcnu1sj","slide":7,"bbox":[745,253,160,84]}
+{"kind":"shape","id":"sh/5o365gba","slide":7,"bbox":[905,253,10,84]}
+{"kind":"shape","id":"sh/knu5wbap","slide":7,"bbox":[905,253,180,84]}
+{"kind":"shape","id":"sh/vy1oz6ts","slide":7,"bbox":[745,393,180,90]}
+{"kind":"shape","id":"sh/axsnq1sn","slide":7,"bbox":[915,393,10,90]}
+{"kind":"shape","id":"sh/xk361wby","slide":7,"bbox":[925,393,160,90]}
+{"kind":"textbox","id":"sh/wja5srad","slide":7,"text":"1 Voice input\n2 Speech-to-text\n3 Intent understanding\n4 AI processing\n5 Task planning\n6 Desktop automation\n7 Response","textPreview":"1 Voice input | 2 Speech-to-text | 3 Intent understanding | 4 AI processing | 5 Task planning | 6 Desktop automation | 7 Response","textChars":117,"textLines":7,"bbox":[760,562,350,91]}
+{"kind":"notes","id":"nt/8f83kk","slide":7,"text":"Architecture diagram. Ollama and NVIDIA NIM are selectable providers. The provider router supports configured automatic failover, subject to valid model/API configuration."}
+{"kind":"slide","id":"sl/3vp38l","slide":8,"title":"SYSTEM WORKING / EXAMPLES","textShapes":24}
+{"kind":"shape","id":"sh/mdwjqxg3","slide":8,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/9g72lcfe","slide":8,"text":"SYSTEM WORKING / EXAMPLES","textPreview":"SYSTEM WORKING / EXAMPLES","textChars":25,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/8fe1s7yt","slide":8,"text":"How JARVIS OS Works","textPreview":"How JARVIS OS Works","textChars":19,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/vipknmxk","slide":8,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/uhgjuhgz","slide":8,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/hk72pcfq","slide":8,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/wjy1w7y5","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/bml0bihg","slide":8,"text":"Example 1","textPreview":"Example 1","textChars":9,"textLines":1,"bbox":[70,146,250,23]}
+{"kind":"textbox","id":"sh/alcjidgv","slide":8,"text":"“Open Chrome and search for today’s weather.”","textPreview":"“Open Chrome and search for today’s weather.”","textChars":45,"textLines":1,"bbox":[70,179,520,52]}
+{"kind":"textbox","id":"sh/cjqd8zqh","slide":8,"text":"Voice","textPreview":"Voice","textChars":5,"textLines":1,"bbox":[170,254,320,36]}
+{"kind":"textbox","id":"sh/dkzuh472","slide":8,"text":"Speech-to-Text","textPreview":"Speech-to-Text","textChars":14,"textLines":1,"bbox":[170,298,320,36]}
+{"kind":"shape","id":"sh/qx8v6p8b","slide":8,"bbox":[330,290,0,8]}
+{"kind":"textbox","id":"sh/byhcfupw","slide":8,"text":"Intent Detection","textPreview":"Intent Detection","textChars":16,"textLines":1,"bbox":[170,342,320,36]}
+{"kind":"shape","id":"sh/0nadczqd","slide":8,"bbox":[330,334,0,8]}
+{"kind":"textbox","id":"sh/lojul47y","slide":8,"text":"Action Planning","textPreview":"Action Planning","textChars":15,"textLines":1,"bbox":[170,386,320,36]}
+{"kind":"shape","id":"sh/yl8va987","slide":8,"bbox":[330,378,0,8]}
+{"kind":"textbox","id":"sh/zm1cjeps","slide":8,"text":"Open Chrome","textPreview":"Open Chrome","textChars":11,"textLines":1,"bbox":[170,430,320,36]}
+{"kind":"shape","id":"sh/gr6t0fq9","slide":8,"bbox":[330,422,0,8]}
+{"kind":"textbox","id":"sh/1sfu9k7u","slide":8,"text":"Enter Search Query","textPreview":"Enter Search Query","textChars":18,"textLines":1,"bbox":[170,474,320,36]}
+{"kind":"shape","id":"sh/xcn2hcf6","slide":8,"bbox":[330,466,0,8]}
+{"kind":"textbox","id":"sh/wbe1o7el","slide":8,"text":"Execute Search","textPreview":"Execute Search","textChars":14,"textLines":1,"bbox":[170,518,320,36]}
+{"kind":"shape","id":"sh/va50f2x0","slide":8,"bbox":[330,510,0,8]}
+{"kind":"textbox","id":"sh/a9wjmxwv","slide":8,"text":"Response","textPreview":"Response","textChars":8,"textLines":1,"bbox":[170,562,320,36]}
+{"kind":"shape","id":"sh/5g72lcfi","slide":8,"bbox":[330,554,0,8]}
+{"kind":"textbox","id":"sh/kfy1srex","slide":8,"text":"IMPLEMENTED ROUTING","textPreview":"IMPLEMENTED ROUTING","textChars":19,"textLines":1,"bbox":[265,612,170,27]}
+{"kind":"textbox","id":"sh/jepkjmxc","slide":8,"text":"Example 2","textPreview":"Example 2","textChars":9,"textLines":1,"bbox":[700,146,250,23]}
+{"kind":"textbox","id":"sh/idgjqhwr","slide":8,"text":"“Open WhatsApp and send Rahul a message saying I’ll reach college in 20 minutes.”","textPreview":"“Open WhatsApp and send Rahul a message saying I’ll reach college in 20 minutes.”","textChars":81,"textLines":1,"bbox":[700,179,500,72]}
+{"kind":"textbox","id":"sh/t472pwve","slide":8,"text":"Launch / focus WhatsApp","textPreview":"Launch / focus WhatsApp","textChars":23,"textLines":1,"bbox":[748,285,405,38]}
+{"kind":"textbox","id":"sh/s3y1wret","slide":8,"text":"Search for contact","textPreview":"Search for contact","textChars":18,"textLines":1,"bbox":[748,339,405,38]}
+{"kind":"shape","id":"sh/qpszqtcb","slide":8,"bbox":[950.5,323,0,16]}
+{"kind":"textbox","id":"sh/bq1gjydw","slide":8,"text":"Type message","textPreview":"Type message","textChars":12,"textLines":1,"bbox":[748,393,405,38]}
+{"kind":"shape","id":"sh/cbahs3uh","slide":8,"bbox":[950.5,377,0,16]}
+{"kind":"textbox","id":"sh/dcjyl8v2","slide":8,"text":"Ask for confirmation","textPreview":"Ask for confirmation","textChars":20,"textLines":1,"bbox":[748,447,405,38]}
+{"kind":"shape","id":"sh/ydszutcn","slide":8,"bbox":[950.5,431,0,16]}
+{"kind":"textbox","id":"sh/zelgnyds","slide":8,"text":"Send message","textPreview":"Send message","textChars":12,"textLines":1,"bbox":[748,501,405,38]}
+{"kind":"shape","id":"sh/0fuhw3ud","slide":8,"bbox":[950.5,485,0,16]}
+{"kind":"textbox","id":"sh/lg3yp8vy","slide":8,"text":"REQUIRES APP + CONFIRMATION","textPreview":"REQUIRES APP + CONFIRMATION","textChars":27,"textLines":1,"bbox":[853,584,170,27]}
+{"kind":"textbox","id":"sh/mhczydcj","slide":8,"text":"Actual behaviour depends on installed applications, access permissions and the current application interface.","textPreview":"Actual behaviour depends on installed applications, access permissions and the current application interface.","textChars":109,"textLines":1,"bbox":[148,634,984,20]}
+{"kind":"notes","id":"nt/3vp38l","slide":8,"text":"Examples show intended routing. Present the WhatsApp flow only after explaining that it requires an available application, a focused window and a confirmation before sending."}
+{"kind":"slide","id":"sl/pt661o","slide":9,"title":"PROVIDER ROUTING","textShapes":19}
+{"kind":"shape","id":"sh/algf69sn","slide":9,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/xo7yhore","slide":9,"text":"PROVIDER ROUTING","textPreview":"PROVIDER ROUTING","textChars":16,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/cnyx8jat","slide":9,"text":"AI Architecture – Local + Cloud Fallback","textPreview":"AI Architecture – Local + Cloud Fallback","textChars":40,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/nypgbu9c","slide":9,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/2xwf2psr","slide":9,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/p07yd4ri","slide":9,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/ozyx4zax","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/fu5g7u90","slide":9,"text":"Local processing","textPreview":"Local processing","textChars":16,"textLines":1,"bbox":[120,154,270,24]}
+{"kind":"textbox","id":"sh/etwfypsv","slide":9,"text":"Ollama","textPreview":"Ollama","textChars":6,"textLines":1,"bbox":[110,194,300,56]}
+{"kind":"textbox","id":"sh/cvqto3al","slide":9,"text":"Local LLM","textPreview":"Local LLM","textChars":9,"textLines":1,"bbox":[110,265,300,56]}
+{"kind":"shape","id":"sh/dwzuh8r6","slide":9,"bbox":[260,250,0,15]}
+{"kind":"textbox","id":"sh/q9obmtsv","slide":9,"text":"Privacy / offline-capable processing\nwhere supported","textPreview":"Privacy / offline-capable processing | where supported","textChars":52,"textLines":2,"bbox":[110,336,300,56]}
+{"kind":"shape","id":"sh/ruxsfy9g","slide":9,"bbox":[260,321,0,15]}
+{"kind":"textbox","id":"sh/476tk3ap","slide":9,"text":"Additional cloud capability","textPreview":"Additional cloud capability","textChars":27,"textLines":1,"bbox":[820,154,340,24]}
+{"kind":"textbox","id":"sh/p8fadora","slide":9,"text":"NVIDIA NIM","textPreview":"NVIDIA NIM","textChars":10,"textLines":1,"bbox":[800,194,300,56]}
+{"kind":"textbox","id":"sh/25obitsj","slide":9,"text":"Cloud-hosted AI capability","textPreview":"Cloud-hosted AI capability","textChars":26,"textLines":1,"bbox":[800,265,300,56]}
+{"kind":"shape","id":"sh/36xsby94","slide":9,"bbox":[950,250,0,15]}
+{"kind":"textbox","id":"sh/o3atwnat","slide":9,"text":"Response","textPreview":"Response","textChars":8,"textLines":1,"bbox":[800,336,300,56]}
+{"kind":"shape","id":"sh/94jupsre","slide":9,"bbox":[950,321,0,15]}
+{"kind":"textbox","id":"sh/xkfa9sji","slide":9,"text":"User Request","textPreview":"User Request","textChars":12,"textLines":1,"bbox":[515,198,250,44]}
+{"kind":"textbox","id":"sh/wj6tgn2x","slide":9,"text":"AI Controller","textPreview":"AI Controller","textChars":13,"textLines":1,"bbox":[515,280,250,44]}
+{"kind":"textbox","id":"sh/vixs7i1s","slide":9,"text":"Try Local Model – Ollama","textPreview":"Try Local Model – Ollama","textChars":24,"textLines":1,"bbox":[480,362,320,44]}
+{"kind":"textbox","id":"sh/ah4bedk7","slide":9,"text":"Success?","textPreview":"Success?","textChars":8,"textLines":1,"bbox":[535,444,210,42]}
+{"kind":"textbox","id":"sh/9gva58jm","slide":9,"text":"YES\nResponse","textPreview":"YES | Response","textChars":12,"textLines":2,"bbox":[440,532,150,62]}
+{"kind":"textbox","id":"sh/8fmtc321","slide":9,"text":"NO\nNVIDIA NIM","textPreview":"NO | NVIDIA NIM","textChars":13,"textLines":2,"bbox":[690,532,150,62]}
+{"kind":"shape","id":"sh/neds3i1g","slide":9,"bbox":[640,242,0,38]}
+{"kind":"shape","id":"sh/mt4badkv","slide":9,"bbox":[640,324,0,38]}
+{"kind":"shape","id":"sh/lsva18ja","slide":9,"bbox":[640,406,0,38]}
+{"kind":"shape","id":"sh/0rmt8325","slide":9,"bbox":[515,486,125,46]}
+{"kind":"shape","id":"sh/qx07290n","slide":9,"bbox":[640,486,125,46]}
+{"kind":"textbox","id":"sh/by98beh8","slide":9,"text":"Automatic failover is configuration-based. It operates when a fallback provider, valid credentials and AI_AUTO_FAILOVER are configured.","textPreview":"Automatic failover is configuration-based. It operates when a fallback provider, valid credentials and AI_AUTO_FAILOVER are configured.","textChars":135,"textLines":1,"bbox":[170,630,940,22]}
+{"kind":"notes","id":"nt/pt661o","slide":9,"text":"The code supports a provider router with optional automatic failover. Do not say that every request uses NVIDIA NIM. It is an optional configured provider."}
+{"kind":"slide","id":"sl/xa3k3w","slide":10,"title":"WHAT THE SYSTEM DELIVERS","textShapes":19}
+{"kind":"shape","id":"sh/nyt4n618","slide":10,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/oj25wb2t","slide":10,"text":"WHAT THE SYSTEM DELIVERS","textPreview":"WHAT THE SYSTEM DELIVERS","textChars":24,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/9kbmpgje","slide":10,"text":"7. Expected Outcomes","textPreview":"7. Expected Outcomes","textChars":20,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/et0nq1kr","slide":10,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/zut4j61w","slide":10,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/0v25sb2h","slide":10,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/1wbmlgj2","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/qp03mhkf","slide":10,"text":"Functional outcomes","textPreview":"Functional outcomes","textChars":19,"textLines":1,"bbox":[110,151,380,26]}
+{"kind":"textbox","id":"sh/rq94fm10","slide":10,"text":"Voice command recognition","textPreview":"Voice command recognition","textChars":25,"textLines":1,"bbox":[92,197,225,50]}
+{"kind":"textbox","id":"sh/3i9gzedc","slide":10,"text":"Natural-language command routing","textPreview":"Natural-language command routing","textChars":32,"textLines":1,"bbox":[342,197,225,50]}
+{"kind":"textbox","id":"sh/2h0fq9wr","slide":10,"text":"Application launching","textPreview":"Application launching","textChars":21,"textLines":1,"bbox":[92,267,225,50]}
+{"kind":"textbox","id":"sh/p4ry1ovi","slide":10,"text":"Web searching and browser actions","textPreview":"Web searching and browser actions","textChars":33,"textLines":1,"bbox":[342,267,225,50]}
+{"kind":"textbox","id":"sh/ojixsjex","slide":10,"text":"Desktop / system automation","textPreview":"Desktop / system automation","textChars":27,"textLines":1,"bbox":[92,337,225,50]}
+{"kind":"textbox","id":"sh/b69g3yd8","slide":10,"text":"File and folder operations","textPreview":"File and folder operations","textChars":26,"textLines":1,"bbox":[342,337,225,50]}
+{"kind":"textbox","id":"sh/q50zutw3","slide":10,"text":"Communication automation","textPreview":"Communication automation","textChars":24,"textLines":1,"bbox":[92,407,225,50]}
+{"kind":"textbox","id":"sh/d8by5ove","slide":10,"text":"Text and voice responses","textPreview":"Text and voice responses","textChars":24,"textLines":1,"bbox":[342,407,225,50]}
+{"kind":"textbox","id":"sh/c72hw3et","slide":10,"text":"AI outcomes","textPreview":"AI outcomes","textChars":11,"textLines":1,"bbox":[765,151,330,26]}
+{"kind":"textbox","id":"sh/rapgrud4","slide":10,"text":"Ollama\nLocal AI","textPreview":"Ollama | Local AI","textChars":15,"textLines":2,"bbox":[760,205,190,74]}
+{"kind":"textbox","id":"sh/69gfipwj","slide":10,"text":"NVIDIA NIM\nCloud capability","textPreview":"NVIDIA NIM | Cloud capability","textChars":27,"textLines":2,"bbox":[1010,205,190,74]}
+{"kind":"textbox","id":"sh/uhorm1kj","slide":10,"text":"Configurable fallback\narchitecture","textPreview":"Configurable fallback | architecture","textChars":34,"textLines":2,"bbox":[885,350,190,74]}
+{"kind":"shape","id":"sh/vixsf614","slide":10,"bbox":[855,279,125,71]}
+{"kind":"shape","id":"sh/gjq9or2p","slide":10,"bbox":[980,279,125,71]}
+{"kind":"textbox","id":"sh/hkzahwju","slide":10,"text":"Result: a desktop assistant designed to understand a request, select a safe action and return a clear response.","textPreview":"Result: a desktop assistant designed to understand a request, select a safe action and return a clear response.","textChars":111,"textLines":1,"bbox":[715,498,450,76]}
+{"kind":"textbox","id":"sh/mdorihk7","slide":10,"text":"Online services and optional AI features depend on the selected provider configuration.","textPreview":"Online services and optional AI features depend on the selected provider configuration.","textChars":87,"textLines":1,"bbox":[285,623,720,20]}
+{"kind":"notes","id":"nt/xa3k3w","slide":10,"text":"Describe expected outcomes as a combination of implemented core capabilities and configurable services. Avoid claiming online/cloud services work without their setup."}
+{"kind":"slide","id":"sl/tvwd24","slide":11,"title":"DEVELOPMENT ROADMAP","textShapes":20}
+{"kind":"shape","id":"sh/ned0retg","slide":11,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/8zm1kja1","slide":11,"text":"DEVELOPMENT ROADMAP","textPreview":"DEVELOPMENT ROADMAP","textChars":19,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/90vitobm","slide":11,"text":"8. Plan of Action","textPreview":"8. Plan of Action","textChars":17,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/y9kje9cz","slide":11,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/zat0netk","slide":11,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/0b21gju5","slide":11,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/lcbip4bq","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/q50japc3","slide":11,"text":"Roadmap from initial study to project demonstration","textPreview":"Roadmap from initial study to project demonstration","textChars":51,"textLines":1,"bbox":[58,145,650,26]}
+{"kind":"textbox","id":"sh/b6t0jut8","slide":11,"text":"01\nRequirement\nAnalysis","textPreview":"01 | Requirement | Analysis","textChars":23,"textLines":3,"bbox":[63,230,140,82]}
+{"kind":"textbox","id":"sh/jy947a9g","slide":11,"text":"02\nLiterature\nReview","textPreview":"02 | Literature | Review","textChars":20,"textLines":3,"bbox":[231,230,140,82]}
+{"kind":"shape","id":"sh/yx0ny58v","slide":11,"bbox":[203,271,28,0]}
+{"kind":"textbox","id":"sh/l0rm9krm","slide":11,"text":"03\nSystem\nArchitecture","textPreview":"03 | System | Architecture","textChars":22,"textLines":3,"bbox":[399,230,140,82]}
+{"kind":"shape","id":"sh/kzi50fq1","slide":11,"bbox":[371,271,28,0]}
+{"kind":"textbox","id":"sh/72tobu9s","slide":11,"text":"04\nVoice\nModule","textPreview":"04 | Voice | Module","textChars":15,"textLines":3,"bbox":[567,230,140,82]}
+{"kind":"shape","id":"sh/61kn2p87","slide":11,"bbox":[539,271,28,0]}
+{"kind":"textbox","id":"sh/tob6dkri","slide":11,"text":"05\nAI / LLM\nIntegration","textPreview":"05 | AI / LLM | Integration","textChars":23,"textLines":3,"bbox":[735,230,140,82]}
+{"kind":"shape","id":"sh/8n254zqx","slide":11,"bbox":[707,271,28,0]}
+{"kind":"textbox","id":"sh/n6p4zq98","slide":11,"text":"06\nOllama\nIntegration","textPreview":"06 | Ollama | Integration","textChars":21,"textLines":3,"bbox":[903,230,140,82]}
+{"kind":"shape","id":"sh/25gnql8n","slide":11,"bbox":[875,271,28,0]}
+{"kind":"textbox","id":"sh/qlo7ytsb","slide":11,"text":"07\nNVIDIA NIM\nIntegration","textPreview":"07 | NVIDIA NIM | Integration","textChars":25,"textLines":3,"bbox":[1071,230,140,82]}
+{"kind":"shape","id":"sh/rmx87ytw","slide":11,"bbox":[1043,271,28,0]}
+{"kind":"textbox","id":"sh/sn6p03ah","slide":11,"text":"08\nDesktop\nAutomation","textPreview":"08 | Desktop | Automation","textChars":21,"textLines":3,"bbox":[63,420,140,82]}
+{"kind":"textbox","id":"sh/dofq98b2","slide":11,"text":"09\nBrowser / App\nIntegration","textPreview":"09 | Browser / App | Integration","textChars":28,"textLines":3,"bbox":[231,420,140,82]}
+{"kind":"shape","id":"sh/ih47utsf","slide":11,"bbox":[203,461,28,0]}
+{"kind":"textbox","id":"sh/3id83yt0","slide":11,"text":"10\nGUI\nDevelopment","textPreview":"10 | GUI | Development","textChars":18,"textLines":3,"bbox":[399,420,140,82]}
+{"kind":"shape","id":"sh/4jmpwja5","slide":11,"bbox":[371,461,28,0]}
+{"kind":"textbox","id":"sh/5kfq5obq","slide":11,"text":"11\nTesting &\nDebugging","textPreview":"11 | Testing & | Debugging","textChars":22,"textLines":3,"bbox":[567,420,140,82]}
+{"kind":"shape","id":"sh/ut47q9s3","slide":11,"bbox":[539,461,28,0]}
+{"kind":"textbox","id":"sh/vud8zeto","slide":11,"text":"12\nFinal\nIntegration","textPreview":"12 | Final | Integration","textChars":20,"textLines":3,"bbox":[735,420,140,82]}
+{"kind":"shape","id":"sh/xk32lgzi","slide":11,"bbox":[707,461,28,0]}
+{"kind":"textbox","id":"sh/wju1sbyx","slide":11,"text":"13\nDocumentation","textPreview":"13 | Documentation","textChars":16,"textLines":2,"bbox":[903,420,140,82]}
+{"kind":"shape","id":"sh/bilkj6hc","slide":11,"bbox":[875,461,28,0]}
+{"kind":"textbox","id":"sh/axcjq1gr","slide":11,"text":"14\nFinal\nDemonstration","textPreview":"14 | Final | Demonstration","textChars":22,"textLines":3,"bbox":[1071,420,140,82]}
+{"kind":"shape","id":"sh/9wj2hwzm","slide":11,"bbox":[1043,461,28,0]}
+{"kind":"shape","id":"sh/ova1ory1","slide":11,"bbox":[133,312,1008,108]}
+{"kind":"textbox","id":"sh/nu1kf6hg","slide":11,"text":"Each phase produces evidence for the next phase: design decisions, modules, integration results, tests, documentation and a live demonstration.","textPreview":"Each phase produces evidence for the next phase: design decisions, modules, integration results, tests, documentation and a live demonstr...","textChars":143,"textLines":1,"bbox":[150,568,980,44]}
+{"kind":"notes","id":"nt/tvwd24","slide":11,"text":"Use this roadmap as a proposed plan. Mark completed phases according to the team’s actual current status before presentation."}
+{"kind":"slide","id":"sl/spf49z","slide":12,"title":"HARDWARE AND SOFTWARE","textShapes":9}
+{"kind":"shape","id":"sh/wnq1wfu9","slide":12,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/bmhk3ato","slide":12,"text":"HARDWARE AND SOFTWARE","textPreview":"HARDWARE AND SOFTWARE","textChars":21,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/al8ju5cj","slide":12,"text":"9. List of Components","textPreview":"9. List of Components","textChars":21,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/5cj294b6","slide":12,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/kba10zul","slide":12,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/ja1k7ut0","slide":12,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/ipsjypcf","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/tgj2d4b2","slide":12,"text":"Hardware","textPreview":"Hardware","textChars":8,"textLines":1,"bbox":[83,151,350,26]}
+{"kind":"textbox","id":"sh/sfal4zuh","slide":12,"text":"Laptop or desktop computer\nMicrophone\nSpeakers or headphones\nInternet connection where online services are used","textPreview":"Laptop or desktop computer | Microphone | Speakers or headphones | Internet connection where online services are used","textChars":111,"textLines":4,"bbox":[76,197,450,220]}
+{"kind":"textbox","id":"sh/ilobudkn","slide":12,"text":"Software","textPreview":"Software","textChars":8,"textLines":1,"bbox":[658,151,350,26]}
+{"kind":"textbox","id":"sh/3mxcnil8","slide":12,"text":"Python with standard-library modules\nSpeechRecognition 3.17.0 and PyAudio 0.2.14\nOptional psutil for live system metrics\nHTML, CSS and JavaScript web HUD\nWindows PowerShell / ctypes for PC-control functions\nOllama local LLM and NVIDIA NIM API support\n.env configuration and JSON local storage\nNative text-to-speech and configured browser","textPreview":"Python with standard-library modules | SpeechRecognition 3.17.0 and PyAudio 0.2.14 | Optional psutil for live system metrics | HTML, CSS ...","textChars":337,"textLines":8,"bbox":[650,197,530,350]}
+{"kind":"textbox","id":"sh/4n6twn2d","slide":12,"text":"Component choice follows a modular design: new skills and providers can be added without rebuilding the entire assistant.","textPreview":"Component choice follows a modular design: new skills and providers can be added without rebuilding the entire assistant.","textChars":121,"textLines":1,"bbox":[160,585,960,54]}
+{"kind":"notes","id":"nt/spf49z","slide":12,"text":"Component list uses the software libraries and modules provided in the supplied project requirements and source files."}
+{"kind":"slide","id":"sl/itzu2o","slide":13,"title":"DEPLOYMENT REQUIREMENTS","textShapes":7}
+{"kind":"shape","id":"sh/n61s3qtc","slide":13,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/o7atcvux","slide":13,"text":"DEPLOYMENT REQUIREMENTS","textPreview":"DEPLOYMENT REQUIREMENTS","textChars":23,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/p83a50b2","slide":13,"text":"System Requirements","textPreview":"System Requirements","textChars":19,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/ehsr6lcf","slide":13,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/fi1szqt0","slide":13,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/g3a98vul","slide":13,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/14ja10b6","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/6d8r21cj","slide":13,"text":"Hardware requirements","textPreview":"Hardware requirements","textChars":21,"textLines":1,"bbox":[76,151,430,26]}
+{"kind":"textbox","id":"sh/rmtorit8","slide":13,"text":"Software requirements","textPreview":"Software requirements","textChars":21,"textLines":1,"bbox":[691,151,430,26]}
+{"kind":"textbox","id":"sh/dov6tsbe","slide":13,"text":"Optional features require their own configuration and compatible hardware or services.","textPreview":"Optional features require their own configuration and compatible hardware or services.","textChars":86,"textLines":1,"bbox":[190,603,900,22]}
+{"kind":"table","id":"tb/qlkre54r","slide":13,"name":"","rows":6,"cols":2,"preview":"Item | Requirement","bbox":[70,190,520,315]}
+{"kind":"table","id":"tb/hkfy9crm","slide":13,"name":"","rows":7,"cols":2,"preview":"Item | Requirement","bbox":[680,190,520,355]}
+{"kind":"notes","id":"nt/itzu2o","slide":13,"text":"Requirements distinguish core execution from optional local AI, cloud AI, voice and online features. No fixed laptop specification is defined by the project."}
+{"kind":"slide","id":"sl/zt35sw","slide":14,"title":"COST ESTIMATE","textShapes":6}
+{"kind":"shape","id":"sh/2tozupof","slide":14,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/pwfi54nq","slide":14,"text":"COST ESTIMATE","textPreview":"COST ESTIMATE","textChars":13,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/ov6hwz65","slide":14,"text":"10. Project Expenditure","textPreview":"10. Project Expenditure","textChars":23,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/byh07u5w","slide":14,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/axozypob","slide":14,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/xkzi94n2","slide":14,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/czqh0z6h","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/r2d0va5s","slide":14,"text":"Use actual values in the ‘To be filled’ rows before final submission.","textPreview":"Use actual values in the ‘To be filled’ rows before final submission.","textChars":69,"textLines":1,"bbox":[58,145,900,26]}
+{"kind":"textbox","id":"sh/kry5cne9","slide":14,"text":"The deck preserves unknown costs as placeholders instead of inventing expenses.","textPreview":"The deck preserves unknown costs as placeholders instead of inventing expenses.","textChars":79,"textLines":1,"bbox":[235,613,810,22]}
+{"kind":"table","id":"tb/bml0b2pk","slide":14,"name":"","rows":11,"cols":2,"preview":"Component | Approximate Cost","bbox":[190,190,900,390]}
+{"kind":"notes","id":"nt/zt35sw","slide":14,"text":"Fill actual microphone, internet and miscellaneous expenditure values. The total must be calculated from those completed rows."}
+{"kind":"slide","id":"sl/r2j5dw","slide":15,"title":"PROJECT BENEFITS","textShapes":15}
+{"kind":"shape","id":"sh/m1k7y90n","slide":15,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/94b6toze","slide":15,"text":"PROJECT BENEFITS","textPreview":"PROJECT BENEFITS","textChars":16,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/832p0jit","slide":15,"text":"Advantages","textPreview":"Advantages","textChars":10,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/ze9onuhw","slide":15,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/yd0nup0b","slide":15,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/l0b6p4z2","slide":15,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/0fi5wzih","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/jadozyhg","slide":15,"text":"Natural voice interaction","textPreview":"Natural voice interaction","textChars":25,"textLines":1,"bbox":[112,165,455,58]}
+{"kind":"textbox","id":"sh/i9476t0v","slide":15,"text":"Hands-free computer interaction","textPreview":"Hands-free computer interaction","textChars":31,"textLines":1,"bbox":[652,165,455,58]}
+{"kind":"textbox","id":"sh/cvq9czq5","slide":15,"text":"Automation of repetitive tasks","textPreview":"Automation of repetitive tasks","textChars":30,"textLines":1,"bbox":[112,249,455,58]}
+{"kind":"textbox","id":"sh/xwjalkrq","slide":15,"text":"AI-powered reasoning","textPreview":"AI-powered reasoning","textChars":20,"textLines":1,"bbox":[652,249,455,58]}
+{"kind":"textbox","id":"sh/at8rap8z","slide":15,"text":"Local AI capability","textPreview":"Local AI capability","textChars":19,"textLines":1,"bbox":[112,333,455,58]}
+{"kind":"textbox","id":"sh/buhsju9k","slide":15,"text":"Extensible architecture","textPreview":"Extensible architecture","textChars":23,"textLines":1,"bbox":[652,333,455,58]}
+{"kind":"textbox","id":"sh/o7q98fq9","slide":15,"text":"Faster task execution","textPreview":"Faster task execution","textChars":21,"textLines":1,"bbox":[112,417,455,58]}
+{"kind":"textbox","id":"sh/pszahkru","slide":15,"text":"Multiple application integration","textPreview":"Multiple application integration","textChars":32,"textLines":1,"bbox":[652,417,455,58]}
+{"kind":"textbox","id":"sh/258r6583","slide":15,"text":"Multi-step command support","textPreview":"Multi-step command support","textChars":26,"textLines":1,"bbox":[112,501,455,58]}
+{"kind":"textbox","id":"sh/n6hsfa9o","slide":15,"text":"Reduced manual operations","textPreview":"Reduced manual operations","textChars":25,"textLines":1,"bbox":[652,501,455,58]}
+{"kind":"textbox","id":"sh/03694fqx","slide":15,"text":"The system’s modular structure also supports future skills, providers and integrations.","textPreview":"The system’s modular structure also supports future skills, providers and integrations.","textChars":87,"textLines":1,"bbox":[192,617,900,24]}
+{"kind":"notes","id":"nt/r2j5dw","slide":15,"text":"Advantages reflect the intended user value of combining voice input with structured desktop automation."}
+{"kind":"slide","id":"sl/p60au3","slide":16,"title":"CURRENT CONSTRAINTS","textShapes":17}
+{"kind":"shape","id":"sh/5s3i54bi","slide":16,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/i5szaps7","slide":16,"text":"CURRENT CONSTRAINTS","textPreview":"CURRENT CONSTRAINTS","textChars":19,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/jq1g3uts","slide":16,"text":"Limitations","textPreview":"Limitations","textChars":11,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/w3ah8fa1","slide":16,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/x4jy1kbm","slide":16,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/a1sz65sv","slide":16,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/v21gzatg","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"shape","id":"sh/8zqh4fa5","slide":16,"bbox":[78,172,530,103]}
+{"kind":"textbox","id":"sh/90zyxkba","slide":16,"text":"Voice recognition","textPreview":"Voice recognition","textChars":17,"textLines":1,"bbox":[98,187,480,24]}
+{"kind":"textbox","id":"sh/hsrmx0v2","slide":16,"text":"Background noise and microphone quality can affect speech recognition.","textPreview":"Background noise and microphone quality can affect speech recognition.","textChars":70,"textLines":1,"bbox":[98,219,480,40]}
+{"kind":"shape","id":"sh/griloveh","slide":16,"bbox":[658,172,530,103]}
+{"kind":"textbox","id":"sh/vq94vqdw","slide":16,"text":"Automation","textPreview":"Automation","textChars":10,"textLines":1,"bbox":[678,187,480,24]}
+{"kind":"textbox","id":"sh/up03mlwb","slide":16,"text":"Some actions depend on application interfaces, window focus and permissions.","textPreview":"Some actions depend on application interfaces, window focus and permissions.","textChars":76,"textLines":1,"bbox":[678,219,480,40]}
+{"kind":"shape","id":"sh/to7mtgf6","slide":16,"bbox":[78,307,530,103]}
+{"kind":"textbox","id":"sh/8nylkbel","slide":16,"text":"Cloud services","textPreview":"Cloud services","textChars":14,"textLines":1,"bbox":[98,322,480,24]}
+{"kind":"textbox","id":"sh/7mpkr6x0","slide":16,"text":"Internet access is required for cloud AI and online services.","textPreview":"Internet access is required for cloud AI and online services.","textChars":61,"textLines":1,"bbox":[98,354,480,40]}
+{"kind":"shape","id":"sh/mlg3i1wf","slide":16,"bbox":[658,307,530,103]}
+{"kind":"textbox","id":"sh/lk72pwfu","slide":16,"text":"AI output","textPreview":"AI output","textChars":9,"textLines":1,"bbox":[678,322,480,24]}
+{"kind":"textbox","id":"sh/kjylgbe9","slide":16,"text":"AI responses can sometimes be incorrect or incomplete.","textPreview":"AI responses can sometimes be incorrect or incomplete.","textChars":54,"textLines":1,"bbox":[678,354,480,40]}
+{"kind":"shape","id":"sh/cf2dsvqh","slide":16,"bbox":[78,442,530,103]}
+{"kind":"textbox","id":"sh/xgvul0r2","slide":16,"text":"Hardware","textPreview":"Hardware","textChars":8,"textLines":1,"bbox":[98,457,480,24]}
+{"kind":"textbox","id":"sh/adkvq58b","slide":16,"text":"Performance depends on local hardware and selected AI model size.","textPreview":"Performance depends on local hardware and selected AI model size.","textChars":65,"textLines":1,"bbox":[98,489,480,40]}
+{"kind":"shape","id":"sh/betcjq9w","slide":16,"bbox":[658,442,530,103]}
+{"kind":"textbox","id":"sh/ob2dovq5","slide":16,"text":"Application changes","textPreview":"Application changes","textChars":19,"textLines":1,"bbox":[678,457,480,24]}
+{"kind":"textbox","id":"sh/pcbuh0rq","slide":16,"text":"UI updates can affect keyboard- and screen-based automation.","textPreview":"UI updates can affect keyboard- and screen-based automation.","textChars":60,"textLines":1,"bbox":[678,489,480,40]}
+{"kind":"textbox","id":"sh/29kbml8f","slide":16,"text":"Responsible use: maintain confirmations for sensitive actions and verify outcomes before treating a task as complete.","textPreview":"Responsible use: maintain confirmations for sensitive actions and verify outcomes before treating a task as complete.","textChars":117,"textLines":1,"bbox":[160,602,960,48]}
+{"kind":"notes","id":"nt/p60au3","slide":16,"text":"Limitations should be presented openly. Explain that controls and confirmations help reduce risk but cannot guarantee every external application outcome."}
+{"kind":"slide","id":"sl/co88nd","slide":17,"title":"POSSIBLE ENHANCEMENTS","textShapes":15}
+{"kind":"shape","id":"sh/yxo7alk3","slide":17,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/l0fq50ju","slide":17,"text":"POSSIBLE ENHANCEMENTS","textPreview":"POSSIBLE ENHANCEMENTS","textChars":21,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/kz6pcv29","slide":17,"text":"Future Scope","textPreview":"Future Scope","textChars":12,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/72x87a1k","slide":17,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/m1ore5kf","slide":17,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/94zq90jq","slide":17,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/8369gv25","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/vqh8ba1w","slide":17,"text":"Multi-agent architecture","textPreview":"Multi-agent architecture","textChars":24,"textLines":1,"bbox":[112,170,455,58]}
+{"kind":"textbox","id":"sh/u58ri5kb","slide":17,"text":"Long-term context and memory","textPreview":"Long-term context and memory","textChars":28,"textLines":1,"bbox":[652,170,455,58]}
+{"kind":"textbox","id":"sh/kzetcv6d","slide":17,"text":"More operating-system support","textPreview":"More operating-system support","textChars":29,"textLines":1,"bbox":[112,254,455,58]}
+{"kind":"textbox","id":"sh/50nul0ny","slide":17,"text":"Additional application integrations","textPreview":"Additional application integrations","textChars":35,"textLines":1,"bbox":[652,254,455,58]}
+{"kind":"textbox","id":"sh/ixwbalo7","slide":17,"text":"Improved offline capabilities","textPreview":"Improved offline capabilities","textChars":29,"textLines":1,"bbox":[112,338,455,58]}
+{"kind":"textbox","id":"sh/jy5cjq5s","slide":17,"text":"Computer vision and screen understanding","textPreview":"Computer vision and screen understanding","textChars":40,"textLines":1,"bbox":[652,338,455,58]}
+{"kind":"textbox","id":"sh/snytgf69","slide":17,"text":"Autonomous task planning","textPreview":"Autonomous task planning","textChars":24,"textLines":1,"bbox":[112,422,455,58]}
+{"kind":"textbox","id":"sh/to7upknu","slide":17,"text":"Mobile and device integration","textPreview":"Mobile and device integration","textChars":29,"textLines":1,"bbox":[652,422,455,58]}
+{"kind":"textbox","id":"sh/61gbe5o3","slide":17,"text":"Personalized workflows","textPreview":"Personalized workflows","textChars":22,"textLines":1,"bbox":[112,506,455,58]}
+{"kind":"textbox","id":"sh/7mpcna5o","slide":17,"text":"Security and permission management","textPreview":"Security and permission management","textChars":34,"textLines":1,"bbox":[652,506,455,58]}
+{"kind":"textbox","id":"sh/grytkf6l","slide":17,"text":"Future work can extend the assistant from command execution toward more context-aware and permission-aware automation.","textPreview":"Future work can extend the assistant from command execution toward more context-aware and permission-aware automation.","textChars":118,"textLines":1,"bbox":[160,616,960,30]}
+{"kind":"notes","id":"nt/co88nd","slide":17,"text":"Future-scope items are proposals, not claims about the current version."}
+{"kind":"slide","id":"sl/796s32","slide":18,"title":"PROJECT SUMMARY","textShapes":8}
+{"kind":"shape","id":"sh/832lcnep","slide":18,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/n2tk3id4","slide":18,"text":"PROJECT SUMMARY","textPreview":"PROJECT SUMMARY","textChars":15,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/m1k3adwj","slide":18,"text":"Conclusion","textPreview":"Conclusion","textChars":10,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/10r218ve","slide":18,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/0zi183et","slide":18,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/zy9kzid8","slide":18,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/ex0j6dwn","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/dcr2x8v2","slide":18,"text":"JARVIS OS demonstrates how Artificial Intelligence, speech recognition and desktop automation can be combined to create a more natural computer interaction system.","textPreview":"JARVIS OS demonstrates how Artificial Intelligence, speech recognition and desktop automation can be combined to create a more natural co...","textChars":163,"textLines":1,"bbox":[120,175,1040,95]}
+{"kind":"textbox","id":"sh/cbi143eh","slide":18,"text":"The system is designed to interpret user commands and translate them into practical computer actions, rather than only answering questions.","textPreview":"The system is designed to interpret user commands and translate them into practical computer actions, rather than only answering questions.","textChars":139,"textLines":1,"bbox":[120,312,1040,82]}
+{"kind":"textbox","id":"sh/e58v29wn","slide":18,"text":"Local and cloud AI providers offer a flexible architecture when configured, while modular automation skills support future expansion.","textPreview":"Local and cloud AI providers offer a flexible architecture when configured, while modular automation skills support future expansion.","textChars":133,"textLines":1,"bbox":[120,435,1040,82]}
+{"kind":"textbox","id":"sh/z6hcveds","slide":18,"text":"JARVIS OS: intelligent assistance connected to practical desktop action.","textPreview":"JARVIS OS: intelligent assistance connected to practical desktop action.","textChars":72,"textLines":1,"bbox":[180,584,920,34]}
+{"kind":"notes","id":"nt/796s32","slide":18,"text":"Conclude with the project’s central idea: voice or text request, command understanding, action selection and a clear response."}
+{"kind":"slide","id":"sl/hgqrww","slide":19,"title":"DEMONSTRATION WORKFLOW","textShapes":15}
+{"kind":"shape","id":"sh/ido7m1of","slide":19,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/5gzqxg7q","slide":19,"text":"DEMONSTRATION WORKFLOW","textPreview":"DEMONSTRATION WORKFLOW","textChars":22,"textLines":1,"bbox":[58,28,360,20]}
+{"kind":"textbox","id":"sh/kf6pob65","slide":19,"text":"JARVIS OS – Live Demonstration","textPreview":"JARVIS OS – Live Demonstration","textChars":30,"textLines":1,"bbox":[58,50,1100,54]}
+{"kind":"shape","id":"sh/7ih8z6pw","slide":19,"bbox":[58,113,1164,0]}
+{"kind":"shape","id":"sh/6h87q1ob","slide":19,"bbox":[58,677,1164,0]}
+{"kind":"textbox","id":"sh/tkzq1g72","slide":19,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[58,686,800,18]}
+{"kind":"textbox","id":"sh/sjqpsb6h","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1172,684,50,20]}
+{"kind":"textbox","id":"sh/nmdonmps","slide":19,"text":"Speak","textPreview":"Speak","textChars":5,"textLines":1,"bbox":[112,160,165,55]}
+{"kind":"textbox","id":"sh/ml47eh87","slide":19,"text":"Understand","textPreview":"Understand","textChars":10,"textLines":1,"bbox":[324,160,165,55]}
+{"kind":"shape","id":"sh/wj2xwfmh","slide":19,"bbox":[277,187.5,47,0]}
+{"kind":"textbox","id":"sh/xkbypkn2","slide":19,"text":"Plan","textPreview":"Plan","textChars":4,"textLines":1,"bbox":[536,160,165,55]}
+{"kind":"shape","id":"sh/ahkfup4r","slide":19,"bbox":[489,187.5,47,0]}
+{"kind":"textbox","id":"sh/bitgnu5c","slide":19,"text":"Execute","textPreview":"Execute","textChars":7,"textLines":1,"bbox":[748,160,165,55]}
+{"kind":"shape","id":"sh/k7mx0zmt","slide":19,"bbox":[701,187.5,47,0]}
+{"kind":"textbox","id":"sh/l8vyt43e","slide":19,"text":"Respond","textPreview":"Respond","textChars":7,"textLines":1,"bbox":[960,160,165,55]}
+{"kind":"shape","id":"sh/ylkfyp4n","slide":19,"bbox":[913,187.5,47,0]}
+{"kind":"textbox","id":"sh/j6dgru58","slide":19,"text":"Screenshot placeholders","textPreview":"Screenshot placeholders","textChars":23,"textLines":1,"bbox":[70,276,320,24]}
+{"kind":"textbox","id":"sh/0bixovmp","slide":19,"text":"INSERT SCREENSHOT\nWeb HUD / dashboard","textPreview":"INSERT SCREENSHOT | Web HUD / dashboard","textChars":37,"textLines":2,"bbox":[70,315,350,205]}
+{"kind":"textbox","id":"sh/1cryh0nu","slide":19,"text":"INSERT SCREENSHOT\nCommand response","textPreview":"INSERT SCREENSHOT | Command response","textChars":34,"textLines":2,"bbox":[465,315,350,205]}
+{"kind":"textbox","id":"sh/h8jelwfy","slide":19,"text":"INSERT SCREENSHOT\nAutomation result","textPreview":"INSERT SCREENSHOT | Automation result","textChars":35,"textLines":2,"bbox":[860,315,350,205]}
+{"kind":"textbox","id":"sh/g7adcred","slide":19,"text":"Suggested live commands: status   |   open chrome and search for weather   |   set a 1 minute timer   |   voice","textPreview":"Suggested live commands: status   |   open chrome and search for weather   |   set a 1 minute timer   |   voice","textChars":111,"textLines":1,"bbox":[94,575,1090,26]}
+{"kind":"textbox","id":"sh/f61wjmxs","slide":19,"text":"Replace placeholders with actual screenshots before final presentation.","textPreview":"Replace placeholders with actual screenshots before final presentation.","textChars":71,"textLines":1,"bbox":[260,623,760,20]}
+{"kind":"notes","id":"nt/hgqrww","slide":19,"text":"Demo slide. Insert team screenshots after running the application. Use safe commands for a live demo and avoid showing keys, passwords or personal chats."}
+{"kind":"slide","id":"sl/6jodck","slide":20,"title":"JARVIS OS","textShapes":6}
+{"kind":"shape","id":"sh/9sf69w72","slide":20,"bbox":[0,0,1280,8]}
+{"kind":"textbox","id":"sh/mponehor","slide":20,"text":"JARVIS OS","textPreview":"JARVIS OS","textChars":9,"textLines":1,"bbox":[270,156,740,65]}
+{"kind":"textbox","id":"sh/7qxo7mpc","slide":20,"text":"Intelligent Voice-Controlled Desktop Assistant","textPreview":"Intelligent Voice-Controlled Desktop Assistant","textChars":46,"textLines":1,"bbox":[270,239,740,40]}
+{"kind":"textbox","id":"sh/knm5cr6l","slide":20,"text":"Q&A","textPreview":"Q&A","textChars":3,"textLines":1,"bbox":[525,352,230,92]}
+{"kind":"textbox","id":"sh/lov65c76","slide":20,"text":"Thank You","textPreview":"Thank You","textChars":9,"textLines":1,"bbox":[270,492,740,54]}
+{"kind":"textbox","id":"sh/y14nahof","slide":20,"text":"Questions & Answers","textPreview":"Questions & Answers","textChars":19,"textLines":1,"bbox":[270,554,740,28]}
+{"kind":"textbox","id":"sh/zmdo3mp0","slide":20,"text":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textPreview":"JARVIS OS – Intelligent Voice-Controlled Desktop Assistant","textChars":58,"textLines":1,"bbox":[220,674,840,20]}
+{"kind":"notes","id":"nt/6jodck","slide":20,"text":"Thank the audience and invite questions."}

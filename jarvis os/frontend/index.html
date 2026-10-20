@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>MARK-1 DESIGN // JARVIS</title>
+<link rel="stylesheet" href="styles.css?v=4" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+
+<div class="hud">
+  <!-- TOP BAR -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="dot"></span>
+      <span class="brand">MARK-1 DESIGN // JARVIS</span>
+      <span class="sub">SYS_ONLINE // VOICE_DETECT</span>
+    </div>
+    <div class="topbar-right">
+      <button id="btnHideLogs" class="pill-btn">HIDE LOGS <span class="red-dot"></span></button>
+      <button id="btnTerminate" class="pill-btn danger">TERMINATE ✕</button>
+    </div>
+  </header>
+
+  <main class="grid">
+    <!-- LEFT COLUMN -->
+    <aside class="col left">
+      <section class="panel">
+        <div class="panel-head">
+          <span><span class="cyan-dot"></span> JARVIS // TEMPORAL_SYNC</span>
+          <span class="tag">CHANNEL_LINK</span>
+        </div>
+        <div class="panel-body row-between">
+          <div>
+            <div class="label">SYSTEM TIMESTAMP</div>
+            <div id="syncTime" class="sync-time">SYNCING_TIME...</div>
+          </div>
+          <div class="dial">
+            <div class="dial-ring"></div>
+            <div class="dial-core"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <span><span class="cyan-dot"></span> SYS_HARDWARE</span>
+          <span class="tag">TELEMETRY</span>
+        </div>
+        <div class="panel-body">
+          <div class="metric">
+            <div class="metric-row"><span id="cpuCoreLabel">CPU LOAD</span><span id="cpuVal" class="val">0.0%</span></div>
+            <div class="bar"><div id="cpuBar" class="fill" style="width:2%"></div></div>
+          </div>
+          <div class="metric">
+            <div class="metric-row"><span>CORE TEMP (EST)</span><span id="tempVal" class="val">0.0°C</span></div>
+            <div class="bar"><div id="tempBar" class="fill" style="width:2%"></div></div>
+          </div>
+          <div class="metric">
+            <div class="metric-row"><span id="ramTotalLabel">RAM</span><span id="ramVal" class="val">0.0%</span></div>
+            <div class="bar"><div id="ramBar" class="fill" style="width:2%"></div></div>
+          </div>
+          <div class="metric">
+            <div class="metric-row"><span id="slot4Label">STORAGE / DISK</span><span id="slot4Val" class="val">0.0%</span></div>
+            <div class="bar"><div id="slot4Bar" class="fill" style="width:2%"></div></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <span><span class="cyan-dot"></span> ENV_TELEMETRY</span>
+          <span class="tag">GLOBAL_NODE</span>
+        </div>
+        <div class="panel-body kv">
+          <div><span>LOCATION</span><span id="locVal" class="val">OFFLINE</span></div>
+          <div><span>WEATHER</span><span id="weatherVal" class="val">UNAVAILABLE</span></div>
+          <div><span>LOCAL IP</span><span id="ipVal" class="val">127.0.0.1</span></div>
+        </div>
+      </section>
+    </aside>
+
+    <!-- CENTER COLUMN -->
+    <section class="col center">
+      <div id="statusBanner" class="status-banner error">
+        <div class="small-label">LATEST TRANSMISSION</div>
+        <div id="statusText" class="status-text">SYSTEM ERROR: UNABLE TO CONTACT JARVIS CORE</div>
+      </div>
+
+      <div class="reactor">
+        <div class="reactor-stage">
+          <svg id="tickOuter" class="ticks-svg spin-cw" viewBox="0 0 400 400"></svg>
+          <svg id="tickInner" class="ticks-svg spin-ccw" viewBox="0 0 400 400"></svg>
+          <svg class="arcs" viewBox="0 0 400 400">
+            <circle cx="200" cy="200" r="168" class="track" />
+            <circle id="arcCpu" cx="200" cy="200" r="168" class="arc cpu" pathLength="100" />
+            <circle cx="200" cy="200" r="150" class="track" />
+            <circle id="arcRam" cx="200" cy="200" r="150" class="arc ram" pathLength="100" />
+            <circle cx="200" cy="200" r="132" class="track" />
+            <circle id="arcDsk" cx="200" cy="200" r="132" class="arc dsk" pathLength="100" />
+          </svg>
+          <div class="arc-labels">
+            <span class="al cpu" style="--a:-90deg">CPU</span>
+            <span class="al ram" style="--a:-90deg">MEM</span>
+            <span class="al dsk" style="--a:-90deg">DSK</span>
+          </div>
+          <div class="sweep"></div>
+          <span class="degree n">N</span><span class="degree e">E</span>
+          <span class="degree s">S</span><span class="degree w">W</span>
+          <canvas id="particleCore" width="220" height="220"></canvas>
+          <div class="hub">
+            <div id="coreState" class="core-state">BOOT</div>
+            <div class="hub-divider"></div>
+            <div id="coreSub" class="core-sub">--:--:--</div>
+            <div id="corePower" class="core-power"><i></i></div>
+          </div>
+          <div class="bracket bl"></div><div class="bracket br"></div>
+        </div>
+        <div class="reactor-chips">
+          <div class="chip"><span>CPU</span><b id="chipCpu">--</b></div>
+          <div class="chip"><span>MEM</span><b id="chipRam">--</b></div>
+          <div class="chip"><span>TEMP</span><b id="chipTemp">--</b></div>
+          <div class="chip"><span>UPTIME</span><b id="chipUp">--</b></div>
+        </div>
+        <canvas id="waveForm" height="54"></canvas>
+      </div>
+
+      <!-- LIVE TRANSCRIPT PANEL -->
+      <div id="transcriptPanel" class="transcript-panel hidden">
+        <div class="transcript-header">
+          <span class="cyan-dot"></span>
+          <span id="transcriptState">IDLE</span>
+        </div>
+        <div id="transcriptText" class="transcript-text">Waiting for voice input...</div>
+      </div>
+
+      <div class="mic-wrap">
+        <div class="mic-controls">
+          <button id="btnMic" class="mic" title="Voice input (click to start/stop)">
+            <span class="mic-ring"></span>
+            <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="#6ef3ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 19v3"/></svg>
+          </button>
+          <button id="btnStop" class="mic-action-btn stop-btn" style="display:none" title="Stop and process recording">STOP</button>
+          <button id="btnCancel" class="mic-action-btn cancel-btn" style="display:none" title="Cancel and discard">CANCEL</button>
+          <button id="btnAssist" class="mic-action-btn assist-btn" title="Hands-free mode: click to cycle OFF > TALK > STANDBY">ASSIST: OFF</button>
+        </div>
+        <div id="listenLabel" class="listen-label"><span class="cyan-dot"></span> IDLE</div>
+      </div>
+
+      <div class="cmd-bar">
+        <input id="cmdInput" type="text" placeholder='Issue direct query or system override command...' autocomplete="off" spellcheck="false" />
+        <button id="btnExecute">EXECUTE</button>
+      </div>
+
+      <div class="quick-actions">
+        <button class="action-chip" data-cmd="status">STATUS</button>
+        <button class="action-chip" data-cmd="scan">PROCESSES</button>
+        <button class="action-chip" data-cmd="pc doctor">DOCTOR</button>
+        <button class="action-chip" data-cmd="weather">WEATHER</button>
+        <button class="action-chip" data-cmd="pc screenshot">SCREENSHOT</button>
+        <button class="action-chip" data-cmd="volume up">VOL +</button>
+        <button class="action-chip" data-cmd="volume down">VOL -</button>
+        <button class="action-chip" data-cmd="skills">SKILLS</button>
+        <button class="action-chip" data-cmd="help">HELP</button>
+      </div>
+    </section>
+
+    <!-- RIGHT COLUMN -->
+    <aside id="logPanel" class="col right">
+      <section class="panel terminal">
+        <div class="panel-head">
+          <span><span class="cyan-dot"></span> JARVIS // TERMINAL_FEED</span>
+          <span class="tag live">LIVE_LOGS</span>
+        </div>
+        <div id="feed" class="feed"></div>
+        <div class="feed-foot">--- ENCRYPTED TRANSMISSION STREAM ---</div>
+      </section>
+    </aside>
+  </main>
+</div>
+
+<!-- Terminate overlay -->
+<div id="shutdownOverlay" class="overlay hidden">
+  <div class="overlay-box">
+    <h2>SYSTEM TERMINATED</h2>
+    <p>Goodbye, sir. Shutting down gracefully.</p>
+    <button id="btnReboot">RE-INITIALIZE</button>
+  </div>
+</div>
+
+<script src="app.js?v=14"></script>
+</body>
+</html>

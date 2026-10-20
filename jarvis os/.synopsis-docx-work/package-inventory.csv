@@ -1,0 +1,31 @@
+document,part,size_bytes,sha256,class
+3.synopsis template.docx,[Content_Types].xml,1672,a7ab96d0a1774f918394316015c0ef1fc7d3004fefd41c9e3ac86679a254d9c8,preserve_only
+3.synopsis template.docx,_rels/.rels,737,c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803,relationships
+3.synopsis template.docx,docProps/app.xml,1021,849bc448c3bb7bca1d77c3e34bf55e890f1e6e91d2b907232a1a551abb98a62d,preserve_only
+3.synopsis template.docx,docProps/core.xml,691,24604d10901e860bf7c3b766eb964aaec259ef5427d72eed3722d806139c1944,preserve_only
+3.synopsis template.docx,docProps/custom.xml,791,8ea3dd8ae92d84c4c0163c60045c17f8c03f5244062cadb9095e1bfd2798b39c,preserve_only
+3.synopsis template.docx,word/_rels/document.xml.rels,1215,533b5e1ac6778a43471a79e23e1ab57904f77826b306ce5d3a27c03901c20a7e,relationships
+3.synopsis template.docx,word/document.xml,148719,aa8e19a92d45b0e732f4c2bc3ae7090f157ad732a384df1db16883bb0abc4c68,editable_content
+3.synopsis template.docx,word/fontTable.xml,2387,d5b13f9bf3a4e3c3b88d689598a7825e2b3b33b41e5613d0d04c047390702c37,preserve_only
+3.synopsis template.docx,word/media/image1.png,86124,35454142d8828734c9e877575c10e67eb5c2f7f97adfd17da6f2e50c44f3a4b2,drawing_media
+3.synopsis template.docx,word/media/image2.jpeg,49546,db06ba19a59a9b24e4977fdf547456322828f74df75b13129ea2edcc27762b04,drawing_media
+3.synopsis template.docx,word/numbering.xml,20941,f60c3d88bfc32953346b8a2fcc338595513db4674659c7cf42251247e4fed37c,numbering
+3.synopsis template.docx,word/settings.xml,3359,5ec9706714d59ea6f03492c8dcd3bd83635fa95847293ab5fb4e516cf4805f09,preserve_only
+3.synopsis template.docx,word/styles.xml,32455,ea7e6bc256487132aa069bf8c777d6d6372ab7c95b806abdbd63a9bd18e3d153,styles
+3.synopsis template.docx,word/theme/theme1.xml,6992,bf4992e3fa7832e5c68fdbc4ec5189c8e5d347fef03c5ba2522ad704bde5078f,preserve_only
+3.synopsis template.docx,word/webSettings.xml,1018,3346314c93078070b454a95d0485bf9721dade13d89cfaa579cc32645fa7edef,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,[Content_Types].xml,1620,ed39b25d390d40a2b75d1e222791fcd90c19345519c2d78c36e15a312b4d2075,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,_rels/.rels,737,c30fe099dbcfed4ecc4ae544ccf82f432c8d3bb665e2a301df283738b196d803,relationships
+NESGI  computer BE Mjaor PRoject Synp..docx,docProps/app.xml,713,aa15f56c740a23918ab7c7344b17e6562f192da9980e20b46d98b15017a7a38a,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,docProps/core.xml,639,bd5e32b34283d5281760757c5c716e2a7ad70141ea8c8c99c7327e281bc0414d,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,docProps/custom.xml,791,ffceab0bd9f42f515331c296981eea1e87dcbf1c5443de669e17ae62ab0d9122,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,word/_rels/document.xml.rels,1214,bbcbfedb8c25d1703005f23adff49b188dd5a1a1261a0337373593bb33c96233,relationships
+NESGI  computer BE Mjaor PRoject Synp..docx,word/document.xml,51049,cd3c5e47933624875875225ffbf0cc6e53f59422cfd3ba3e4f635c71181e838d,editable_content
+NESGI  computer BE Mjaor PRoject Synp..docx,word/fontTable.xml,2092,a1b0c4a08d63de47a1804d19de9efe30c61761f26b27e4a7adfa55e48ce32e07,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,word/media/image1.png,91676,b51bc53f803128f2f1cf2e1991b7fed13f910338e00a559aaba1925ddbac7a55,drawing_media
+NESGI  computer BE Mjaor PRoject Synp..docx,word/media/image2.png,48274,2dca01776bbcdb2be2fd54e91ade3fabacd3ea8655a390089371ac9a79a3e5e9,drawing_media
+NESGI  computer BE Mjaor PRoject Synp..docx,word/numbering.xml,8608,d112a16ac6086512a6676416f8f1ae5c8d69f82819da2003b47edc8c21ff9980,numbering
+NESGI  computer BE Mjaor PRoject Synp..docx,word/settings.xml,3661,2a37c76ea76cbd8337f3a1088c027f57bd4734b80331555916e302839ec58d40,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,word/styles.xml,31296,38e988390c1f67e51b3a210960d282407990682460abfcc5f7ce2c56e6b1bba8,styles
+NESGI  computer BE Mjaor PRoject Synp..docx,word/theme/theme1.xml,6992,bf4992e3fa7832e5c68fdbc4ec5189c8e5d347fef03c5ba2522ad704bde5078f,preserve_only
+NESGI  computer BE Mjaor PRoject Synp..docx,word/webSettings.xml,1018,3346314c93078070b454a95d0485bf9721dade13d89cfaa579cc32645fa7edef,preserve_only

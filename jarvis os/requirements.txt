@@ -1,0 +1,6 @@
+# Optional voice input (microphone -> text)
+SpeechRecognition==3.17.0
+pyaudio==0.2.14
+
+# Optional live system metrics (CPU/RAM/processes)
+psutil
